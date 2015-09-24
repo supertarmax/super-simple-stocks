@@ -1,10 +1,9 @@
 # super-simple-stocks
 #####################
-Building:
-On project folder type:
+TO BUILD:
 mvn clean install
 #####################
-To start
+TO START:
 java -jar super-simple-stocks-sources.jar
 (be sure to have the lib folder inside the same folder)
 #####################
