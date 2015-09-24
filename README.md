@@ -1,7 +1,7 @@
 # super-simple-stocks
 #####################
 Building:
-On project folder type on command line:
+On project folder type:
 mvn clean install
 #####################
 To start
